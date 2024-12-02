@@ -74,7 +74,7 @@ Las contribuciones son bienvenidas. Por favor, sigue los siguientes pasos para c
 
 
 
-#Capturas
+## Capturas
 
 Home
 ![1](1.png)

@@ -1,4 +1,4 @@
-# traditionalApp
+# TraditionalAppPHPPokemon
 
 ## Descripción
 
@@ -71,6 +71,43 @@ Las contribuciones son bienvenidas. Por favor, sigue los siguientes pasos para c
 3. Realiza los cambios necesarios y haz commit (`git commit -am 'Añadir nueva funcionalidad'`).
 4. Sube los cambios a tu repositorio (`git push origin feature/nueva-funcionalidad`).
 5. Abre un Pull Request.
+
+
+
+#Capturas
+
+Home
+![1](1.png)
+
+
+Home de pokemon con la lista
+![2](2.png)
+
+
+Loggin impares
+![3](impares-login.png)
+
+
+Loggin pares
+![4](pares-login.png)
+
+
+Pagina de creacion de un pokemon nuevo
+![5](create.png)
+
+
+Página de edición de un pokemon 
+![6](edit.png)
+
+
+Página de view de un pokemon 
+![7](view.png)
+
+
+Página de delete de un pokemon 
+![8](delete.png)
+
+
 
 ## Licencia
 
